@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\workspace\SupermergeMonitor\SupermergeMonitor_Tests\bin\Debug\SupermergeMonitor_Tests.dll" total="10" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-06-10" time="14:13:48">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="MARKBROWN7" user="MarkBrown" user-domain="OLYMPUS" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\workspace\SupermergeMonitor\SupermergeMonitor_Tests\bin\Debug\SupermergeMonitor_Tests.dll" executed="True" result="Success" success="True" time="0.110" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SupermergeMonitor_Tests" executed="True" result="Success" success="True" time="0.096" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="UtilityMethodsTests" executed="True" result="Inconclusive" success="False" time="0.040" asserts="0" />
+          <test-suite type="TestFixture" name="UtilityMethodsTests+TheGet24TimeMethod" executed="True" result="Success" success="True" time="0.040" asserts="0">
+            <results>
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGet24TimeMethod.Returns0For12AM" executed="True" result="Success" success="True" time="0.024" asserts="1" />
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGet24TimeMethod.Returns100For1AM" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGet24TimeMethod.Returns1100For11AM" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGet24TimeMethod.Returns1200For12PM" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGet24TimeMethod.Returns1300For1PM" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGet24TimeMethod.Returns1330For130PM" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGet24TimeMethod.Returns1400For0200PM" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="UtilityMethodsTests+TheGetLogFileTimeMethod" executed="True" result="Success" success="True" time="0.003" asserts="0">
+            <results>
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGetLogFileTimeMethod.Returns0100ForLOG_fulfillment_Supermerge_20140610_0100AM" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGetLogFileTimeMethod.Returns1300ForLOG_fulfillment_Supermerge_20140610_0100PM" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="UtilityMethodsTests+TheGetTodaysDateMethod" executed="True" result="Success" success="True" time="0.003" asserts="0">
+            <results>
+              <test-case name="SupermergeMonitor_Tests.UtilityMethodsTests+TheGetTodaysDateMethod.ReturnsTodaysDate" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

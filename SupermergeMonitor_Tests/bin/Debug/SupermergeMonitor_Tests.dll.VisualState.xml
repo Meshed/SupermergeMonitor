@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1014]C:\workspace\SupermergeMonitor\SupermergeMonitor_Tests\bin\Debug\SupermergeMonitor_Tests.dll</TopNode>
+  <SelectedNode>[0-1009]SupermergeMonitor_Tests.UtilityMethodsTests+TheGet24TimeMethod.Returns1400For0200PM</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1014]C:\workspace\SupermergeMonitor\SupermergeMonitor_Tests\bin\Debug\SupermergeMonitor_Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1015]SupermergeMonitor_Tests" Expanded="true" />
+    <Node UniqueName="[0-1003]SupermergeMonitor_Tests.UtilityMethodsTests+TheGet24TimeMethod" Expanded="true" />
+    <Node UniqueName="[0-1011]SupermergeMonitor_Tests.UtilityMethodsTests+TheGetLogFileTimeMethod" Expanded="true" />
+    <Node UniqueName="[0-1001]SupermergeMonitor_Tests.UtilityMethodsTests+TheGetTodaysDateMethod" Expanded="true" />
+  </Nodes>
+</VisualState>
