@@ -13,7 +13,8 @@ namespace SupermergeMonitor_Tests
         [TestFixtureSetUp]
         public void Setup()
         {
-            _utilityMethods = new UtilityMethods();
+            IEmailService emailService = new EmailServiceMock();
+            _utilityMethods = new UtilityMethods(emailService);
         }
 
         [TestFixture]
@@ -84,6 +85,12 @@ namespace SupermergeMonitor_Tests
             public void Returns0For12AM()
             {
                 Assert.AreEqual(0, _utilityMethods.Get24Time("1200", "1200AM"));
+            }
+
+            [Test]
+            public void Returns30For1230AM()
+            {
+                Assert.AreEqual(30, _utilityMethods.Get24Time("1230", "1230AM"));
             }
         }
 

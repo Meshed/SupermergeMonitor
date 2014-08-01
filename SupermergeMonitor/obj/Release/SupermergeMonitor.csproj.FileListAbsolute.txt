@@ -1,0 +1,12 @@
+C:\workspace\SupermergeMonitor\SupermergeMonitor\bin\Release\SupermergeMonitor.exe.config
+C:\workspace\SupermergeMonitor\SupermergeMonitor\bin\Release\SupermergeMonitor.exe
+C:\workspace\SupermergeMonitor\SupermergeMonitor\bin\Release\SupermergeMonitor.pdb
+C:\workspace\SupermergeMonitor\SupermergeMonitor\bin\Release\Fortegra.Utilities.Email.dll
+C:\workspace\SupermergeMonitor\SupermergeMonitor\obj\Release\SupermergeMonitor.exe
+C:\workspace\SupermergeMonitor\SupermergeMonitor\obj\Release\SupermergeMonitor.pdb
+C:\workspace\SVN\consecta-application-development\Utilities\SupermergeMonitor\SupermergeMonitor\bin\Release\SupermergeMonitor.exe.config
+C:\workspace\SVN\consecta-application-development\Utilities\SupermergeMonitor\SupermergeMonitor\bin\Release\SupermergeMonitor.exe
+C:\workspace\SVN\consecta-application-development\Utilities\SupermergeMonitor\SupermergeMonitor\bin\Release\SupermergeMonitor.pdb
+C:\workspace\SVN\consecta-application-development\Utilities\SupermergeMonitor\SupermergeMonitor\bin\Release\Fortegra.Utilities.Email.dll
+C:\workspace\SVN\consecta-application-development\Utilities\SupermergeMonitor\SupermergeMonitor\obj\Release\SupermergeMonitor.exe
+C:\workspace\SVN\consecta-application-development\Utilities\SupermergeMonitor\SupermergeMonitor\obj\Release\SupermergeMonitor.pdb
